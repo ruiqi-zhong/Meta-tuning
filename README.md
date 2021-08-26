@@ -1,6 +1,6 @@
 # Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections
 
-Ruiqi Zhong, Kristy Lee<sup>*</sup>, Zheng Zhang<sup>*</sup>, Dan Klein
+Ruiqi Zhong, Kristy Lee<sup>\*</sup>, Zheng Zhang<sup>\*</sup>, Dan Klein
 
 EMNLP 2021 Findings, https://arxiv.org/abs/2104.04670
 
