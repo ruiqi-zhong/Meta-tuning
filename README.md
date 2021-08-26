@@ -1,5 +1,7 @@
 # Adapting Language Models for Zero-shot Learning by Meta-tuning on Dataset and Prompt Collections, EMNLP 2021 Findings
 
+https://arxiv.org/abs/2104.04670
+
 ## Data
 
 Each datapoint is represented as a dictionary.
