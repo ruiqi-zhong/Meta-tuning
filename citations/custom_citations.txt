@@ -1,0 +1,61 @@
+Here are the papers NOT in anthology.bib of EMNLP 2021.
+
+@article{almeida2013towards,
+  title={Towards sms spam filtering: Results under a new dataset},
+  author={Almeida, Tiago and Hidalgo, Jos{\'e} Mar{\'\i}a G{\'o}mez and Silva, Tiago Pasqualini},
+  journal={International Journal of Information Security Science},
+  volume={2},
+  number={1},
+  pages={1--18},
+  year={2013}
+}
+
+@InProceedings{maas-EtAl:2011:ACL-HLT2011,
+  author    = {Maas, Andrew L.  and  Daly, Raymond E.  and  Pham, Peter T.  and  Huang, Dan  and  Ng, Andrew Y.  and  Potts, Christopher},
+  title     = {Learning Word Vectors for Sentiment Analysis},
+  booktitle = {Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies},
+  month     = {June},
+  year      = {2011},
+  address   = {Portland, Oregon, USA},
+  publisher = {Association for Computational Linguistics},
+  pages     = {142--150},
+  url       = {http://www.aclweb.org/anthology/P11-1015}
+}
+
+
+@dataset{spoilerdataset,
+    author = {Misra, Rishabh},
+    year = {2019},
+    month = {05},
+    pages = {},
+    title = {IMDB Spoiler Dataset},
+    doi = {10.13140/RG.2.2.11584.15362}
+}
+
+@article{warstadt2018neural,
+    title={Neural Network Acceptability Judgments},
+    author={Warstadt, Alex and Singh, Amanpreet and Bowman, Samuel R},
+    journal={arXiv preprint arXiv:1805.12471},
+    year={2018}
+}
+
+
+@inproceedings{
+hendrycks2021aligning,
+title={Aligning {\{}AI{\}} With Shared Human Values},
+author={Dan Hendrycks and Collin Burns and Steven Basart and Andrew Critch and Jerry Li and Dawn Song and Jacob Steinhardt},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=dNy_RKzJacY}
+}
+
+@inproceedings{10.5555/2969239.2969312, author = {Zhang, Xiang and Zhao, Junbo and LeCun, Yann}, title = {Character-Level Convolutional Networks for Text Classification}, year = {2015}, publisher = {MIT Press}, address = {Cambridge, MA, USA}, abstract = {This article offers an empirical exploration on the use of character-level convolutional networks (ConvNets) for text classification. We constructed several large-scale datasets to show that character-level convolutional networks could achieve state-of-the-art or competitive results. Comparisons are offered against traditional models such as bag of words, n-grams and their TFIDF variants, and deep learning models such as word-based ConvNets and recurrent neural networks.}, booktitle = {Proceedings of the 28th International Conference on Neural Information Processing Systems - Volume 1}, pages = {649–657}, numpages = {9}, location = {Montreal, Canada}, series = {NIPS'15} }
+
+@inproceedings{misra2018decomposing,
+  title={Decomposing fit semantics for product size recommendation in metric spaces},
+  author={Misra, Rishabh and Wan, Mengting and McAuley, Julian},
+  booktitle={Proceedings of the 12th ACM Conference on Recommender Systems},
+  pages={422--426},
+  year={2018},
+  organization={ACM}
+}

@@ -1,0 +1,16 @@
+\cite{yin-etal-2019-benchmarking}
+\cite{barbieri-etal-2020-tweeteval}
+\cite{rosenthal-etal-2017-semeval}
+\cite{chalkidis-etal-2019-large}
+\cite{zampieri-etal-2019-semeval}
+\cite{basile-etal-2019-semeval}
+\cite{mihaylova-etal-2019-semeval}
+\cite{van-hee-etal-2018-semeval}
+\cite{mohammad-etal-2018-semeval}
+\cite{spala-etal-2020-semeval}
+\cite{li-roth-2002-learning}
+\cite{pang-lee-2004-sentimental}
+\cite{warstadt2018neural}
+\cite{williams-etal-2018-broad}
+\cite{MohammadST16}
+\cite{allaway-mckeown-2020-zero}

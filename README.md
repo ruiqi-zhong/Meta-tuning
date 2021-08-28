@@ -6,6 +6,10 @@ EMNLP 2021 Findings, https://arxiv.org/abs/2104.04670
 
 ## Data
 
+Please download the dataset from here:  
+
+If you are using this dataset, please cite all the papers in the custom_citations.txt, anthology_citations.txt, urls.txt file in the citations folder. Thanks!
+
 Each datapoint is represented as a dictionary.
 
 ```{"q": [label description], "c": [text input], "a": [0 or 1]}```, 
@@ -18,6 +22,7 @@ where "q" stands for question, which contains label information, "c" stands for 
 Datasets that have the same group number in front of their filenames are considered similar. 
 Notice that,  for each dataset, there might be overlapping datapoints between the training and testing split, but it is okay since we never train and test on the same dataset.
 
+Additionally, to speedup evaluation, we performed subsampling for many of the test datasets, so the numbers will not be directly comparable to those in the other paper.
 
 ## Specialized Models are Better
 

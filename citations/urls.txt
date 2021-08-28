@@ -1,0 +1,17 @@
+https://www.kaggle.com/abisheksudarshan/topic-modeling-for-research-articles?select=Train.csv
+https://www.kaggle.com/welkin10/airline-sentiment
+https://www.kaggle.com/datatattle/covid-19-nlp-text-classification?select=Corona\_NLP\_test.csv
+https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews
+https://www.kaggle.com/yash612/stockmarket-sentiment-dataset
+https://www.kaggle.com/amananandrai/ag-news-classification-dataset?select=train.csv
+https://www.kaggle.com/shaharz/classifying-tweets-of-trump-and-obama
+https://www.kaggle.com/harsh03/sexually-explicit-comments
+https://www.kaggle.com/kapastor/democratvsrepublicantweets?select=ExtractedTweets.csv
+https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
+https://www.kaggle.com/c/quora-question-pairs/data
+https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection?select=Sarcasm_Headlines_Dataset_v2.json
+https://www.kaggle.com/thoughtvector/customer-support-on-twitter
+https://www.kaggle.com/vbmokin/nlp-reports-news-classification?select=water_problem_nlp_en_for_Kaggle_100.csv
+https://www.kaggle.com/dgrosz/sexist-workplace-statements
+https://www.kaggle.com/rmisra/imdb-spoiler-dataset?select=IMDB_reviews.json
+https://www.kaggle.com/c/nlp-getting-started/data?select=train.csv
