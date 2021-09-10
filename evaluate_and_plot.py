@@ -23,8 +23,11 @@ def calculate_task2label2scores(suffix):
                 q_map[q] = len(q_map)
 
         for (label, q) in label_q2inputs:
+            # the gold answer, 1 for yes, 0 for no
             yes_no_gold = np.array([d['a'] for d in label_q2inputs[(label, q)]])
+            # the logits for the answer "yes". discard the logits for "no" and we didn't use it in our paper.
             preds = label_q2preds[(label, q)][:, 1]
+            # calculate ROC_AUC.
             result[(label, q_map[q])] = roc_auc_score(yes_no_gold, preds)
 
         task2results[name] = result

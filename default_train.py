@@ -77,6 +77,9 @@ if __name__ == '__main__':
             label_q2preds = {}
 
             for (label, q), input_answer in label_q2input_answer.items():
+                # input_answer is a list of datapoints, each is a dictionary with "q", "c", "a" keys.
+                # all_preds is a 2D logit, with dimension num_datapoints X 2.
+                # The semantics for the 2nd dimension is [logit for "no", logit for "yes"].
                 all_preds = m.get_logits_from_qc(input_answer)
                 label_q2preds[(label, q)] = all_preds
             pkl.dump(label_q2preds, open('results/' + name + model_name, 'wb'))
