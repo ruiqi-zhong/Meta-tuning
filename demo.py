@@ -1,5 +1,5 @@
 import torch
-from transformers import AutoTokenizer, T5ForConditionalGeneration, AutoModelForSequenceClassification
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import re
 import numpy as np
 import tqdm
