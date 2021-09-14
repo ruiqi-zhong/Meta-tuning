@@ -4,6 +4,13 @@ Ruiqi Zhong, Kristy Lee<sup>\*</sup>, Zheng Zhang<sup>\*</sup>, Dan Klein
 
 EMNLP 2021 Findings, https://arxiv.org/abs/2104.04670
 
+
+## Released Model Checkpoint and How to Use It
+
+We uploaded meta-tuned roberta-large to the huggingface model hub as ```ruiqi-zhong/roberta-large-meta-tuning-test```.
+Example code can be seen in ```demo.py``` . 
+Note: please do not compare its performance with other zero-shot learning models, since it has seen all the datasets in our paper during training time. 
+
 ## Data
 
 Please download the dataset from here: https://drive.google.com/file/d/1hrLlpk6Pla95Bnv_e1MAhCx7uJSDgA-w/view?usp=sharing  
