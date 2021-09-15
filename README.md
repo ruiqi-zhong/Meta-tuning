@@ -9,6 +9,7 @@ EMNLP 2021 Findings, https://arxiv.org/abs/2104.04670
 
 We uploaded meta-tuned roberta-large to the huggingface model hub as ```ruiqi-zhong/roberta-large-meta-tuning-test```.
 Example code can be seen in ```demo.py``` . 
+We also uploaded meta-tuned roberta-base as well. 
 Note: please do not compare its performance with other zero-shot learning models, since it has seen all the datasets in our paper during training time. 
 
 ## Data

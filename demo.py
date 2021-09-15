@@ -75,7 +75,7 @@ if __name__ == '__main__':
     ]
 
     # loading the model
-    model = BERTZeroShotClfQA('ruiqi-zhong/roberta-large-meta-tuning-test')
+    model = BERTZeroShotClfQA('ruiqi-zhong/roberta-base-meta-tuning-test')
 
     # get_logits_from_qc returns numpy array
     logits = model.get_logits_from_qc(data_dicts)
